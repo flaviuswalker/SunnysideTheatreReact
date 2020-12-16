@@ -1,0 +1,18 @@
+
+
+body {
+  font-family: 'Poiret One', cursive;
+  background: black; 
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+   
+}
+.flex-box, .navbar {
+  font-size: x-large;
+  text-align: center;
+  padding: 30px;
+  padding-top: 40px;
+}
+
